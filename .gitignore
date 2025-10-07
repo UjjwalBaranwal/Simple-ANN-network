@@ -1,0 +1,94 @@
+# ------------------------------
+# Python
+# ------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.so
+*.egg-info/
+*.log
+
+# ------------------------------
+# Virtual Environments
+# ------------------------------
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+
+# ------------------------------
+# IDE / Editor
+# ------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ------------------------------
+# Jupyter / Colab Notebooks
+# ------------------------------
+.ipynb_checkpoints/
+
+# ------------------------------
+# TensorFlow / Deep Learning
+# ------------------------------
+checkpoint/
+*.h5
+*.hdf5
+*.ckpt
+*.pb
+*.tflite
+saved_model/
+logs/
+events.out.tfevents*
+*.npy
+*.npz
+
+# ------------------------------
+# Streamlit
+# ------------------------------
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# ------------------------------
+# OS Files
+# ------------------------------
+.DS_Store
+Thumbs.db
+
+# ------------------------------
+# Cache / Build
+# ------------------------------
+__cache__/
+.cache/
+build/
+dist/
+*.egg
+*.manifest
+*.spec
+
+# ------------------------------
+# Data Files
+# ------------------------------
+data/
+datasets/
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.zip
+*.tar
+*.gz
+*.mp4
+*.jpg
+*.png
+*.jpeg
+
+# ------------------------------
+# Environment Files
+# ------------------------------
+.env
+*.env
